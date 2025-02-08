@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "directus": "^11.4.1"
+  }
+}
